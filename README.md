@@ -1,4 +1,4 @@
 # Programs
-All my programs in one place!
+All my programs in one github repositryryr!
 
 *luaide
